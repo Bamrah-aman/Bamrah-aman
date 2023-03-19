@@ -1,6 +1,4 @@
-##Amandeep Singh
-
-### Hola World! 👋
+## Hola World! 👋
 
 I'm Amandeep Singh and IN-citizen, I'm a Software Developer in Noida, India,
 passionate about solving problems with technology and creating different solutions.
