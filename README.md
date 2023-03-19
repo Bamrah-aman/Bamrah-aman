@@ -11,8 +11,6 @@ database(MySql, Oracle) and AWS also :-)
 
 - 🔭 I’m currently working on MyHome Plan Project APLUS(Japanese Client).
 - 🌱 I’m currently learning Spring Boot, Microservices.
-- 👯 I’m looking to collaborate on ..
-- 🤔 I’m looking for help with ...
 - 💻 I love helping people with the content I share.
 - 🏡 I love being with my family and friends, they are everything to me.
 - ✈️ I love to travel and get to know new places and cultures.
