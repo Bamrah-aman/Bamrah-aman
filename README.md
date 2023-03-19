@@ -1,5 +1,3 @@
-#Amandeep Singh
-
 ## Hola World! 👋
 
 I'm Amandeep Singh and IN-citizen, I'm a Software Developer in Noida, India,
