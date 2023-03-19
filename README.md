@@ -1,9 +1,11 @@
+#Amandeep Singh
+
 ## Hola World! 👋
 
 I'm Amandeep Singh and IN-citizen, I'm a Software Developer in Noida, India,
 passionate about solving problems with technology and creating different solutions.
 
-I have wide range of skills that includes backend development using (Spring, Spring MVC, Spring Boot, Hibernate, Java), front development using(HTML, JSP, Thymeleaf), 
+I have wide range of skills that includes backend development using (Spring, Spring MVC, Spring Boot, Hibernate, Java), front development using(HTML,CSS, JSP, Thymeleaf), 
 database(MySql, Oracle) and AWS also :-)
 
 
